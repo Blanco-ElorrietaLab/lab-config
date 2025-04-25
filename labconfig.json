@@ -5,12 +5,12 @@
   },
   "experiments": [
     {
-      "id": "bilingphone",
-      "name": "BilingPhone",
-      "repo": "https://github.com/Blanco-ElorrietaLab/BilingPhone",
-      "url": "http://smile-blanco-elorrieta-lab.s3-website-us-east-2.amazonaws.com",
-      "description": "A SMILE experiment on bilingual phoneme categorization.",
-      "active": true
-    }
+  "id": "bilingphone",
+  "name": "Bilingual Phoneme Categorization",
+  "repo": "https://github.com/Blanco-ElorrietaLab/BilingPhone",
+  "url": "https://d3d7j7ru9boakb.cloudfront.net",
+  "description": "A SMILE experiment studying phoneme categorization in bilinguals.",
+  "active": true
+  }
   ]
 }
