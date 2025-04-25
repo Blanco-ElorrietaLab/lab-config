@@ -1,9 +1,9 @@
 {
   "experiments": [
     {
-      "name": "basic-test",
-      "repo": "https://github.com/Blanco-ElorrietaLab/basic-test",
-      "url": "http://smile-blanco-elorrieta-lab.s3-website.us-east-2.amazonaws.com"
+      "name": "BilingPhone",
+      "repo": "https://github.com/Blanco-ElorrietaLab/BilingPhone",
+      "url": "http://smile-blanco-elorrieta-lab.s3-website-us-east-2.amazonaws.com"
     }
   ]
 }
